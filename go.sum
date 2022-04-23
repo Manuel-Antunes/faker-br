@@ -1,0 +1,4 @@
+github.com/bxcodec/faker/v3 v3.7.0 h1:qWAFFwcyVS0ukF0UoJju1wBLO0cuPQ7JdVBPggM8kNo=
+github.com/bxcodec/faker/v3 v3.7.0/go.mod h1:gF31YgnMSMKgkvl+fyEo1xuSMbEuieyqfeslGYFjneM=
+github.com/mvrilo/go-cpf v0.0.0-20150109121854-4113d38c8d21 h1:YPCOJF8DBm+WyORRxVj6maVZkx/Von4+JxfNJ8DjJhw=
+github.com/mvrilo/go-cpf v0.0.0-20150109121854-4113d38c8d21/go.mod h1:yYdoTli5ejfoOkQX4/hP97HEoULZBMTRhiD0p9UM/oc=
